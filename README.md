@@ -6,6 +6,12 @@ An end-to-end machine learning project that predicts the risk of patients missin
 
 Try the deployed Gradio application on Hugging Face Spaces:
 
+### Model Artifact
+
+The serialized trained model artifact is not included in this GitHub repository due to GitHub's file size limits.  
+The fully deployed application, including the trained model, is available through the live Hugging Face Space:
+
+
 [Open the Medical No-Show Risk Predictor](https://huggingface.co/spaces/zehraerdogan1004/medical-no-show-risk-predictor)
 
 ---
