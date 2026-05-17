@@ -1,0 +1,4 @@
+risk_level,total_appointments,actual_no_show_count,actual_no_show_rate
+High Risk,952,389,40.86
+Low Risk,8764,526,6.0
+Moderate Risk,203,51,25.12
